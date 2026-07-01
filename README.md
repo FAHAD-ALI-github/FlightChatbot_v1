@@ -47,7 +47,7 @@ project-root/
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/FAHAD-ALI-github/FlightChatbot_v1
+git clone https://github.com/FAHAD-ALI-github/FlightChatbot_v1.git
 cd FlightChatbot_v1
 ```
 
