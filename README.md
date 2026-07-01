@@ -47,8 +47,8 @@ project-root/
 ### 1\. Clone the Repository
 
 ```bash
-git clone https://github.com/username/repo-name
-cd repo-name
+git clone https://github.com/FAHAD-ALI-github/FlightChatbot_v1
+cd FlightChatbot_v1
 ```
 
 ### 2\. Set Up Environment Variables
