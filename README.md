@@ -1,4 +1,4 @@
-# 📌 WhatsApp Flight Booking Bot
+#  WhatsApp Flight Booking Bot
 
 A conversational WhatsApp bot that allows users to search for the cheapest flights using natural language. The bot is built with Flask and integrates with the Twilio Messaging API for WhatsApp, the Aviation Stack API for real-time flight data, and the Hugging Face API for advanced natural language understanding. It offers both a guided, step-by-step conversation and the ability to process a complete flight request in a single message.
 
