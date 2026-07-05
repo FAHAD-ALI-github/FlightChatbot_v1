@@ -4,6 +4,12 @@ A conversational WhatsApp bot that allows users to search for the cheapest fligh
 
 -----
 
+## 🎥 Demo
+
+![Demo GIF](demo/demo.gif)
+
+-----
+
 ## ✨ Features
 
   - **Conversational Interface**: Interact with the bot on WhatsApp using natural language.
@@ -93,11 +99,6 @@ You can now send a WhatsApp message to your Twilio number to start interacting w
 
 -----
 
-## 🎥 Demo
-
-![Demo GIF](demo/demo.gif)
-
------
 
 ## 👤 Author
 
